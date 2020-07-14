@@ -111,6 +111,9 @@
  .dn {
      display: none;
  }
+ .blue {
+	color:#0099ff !important;
+}
  .filtrate {
 	width: 100%;
 	height: calc(100vh);
