@@ -2,7 +2,7 @@
  * @Author: omtech.cn 
  * @Date: 2020-01-15 09:41:21 
  * @Last Modified by: OMT.Xu
- * @Last Modified time: 2020-07-13 17:35:54
+ * @Last Modified time: 2020-07-14 10:56:24
  */
 
  @charset "utf-8";
@@ -156,7 +156,7 @@
 	width: 1.5rem;
 	height: 1.5rem;
 	margin-right: .8rem;
-	background: url("/imgs/icon_down.png") no-repeat center center;
+	background: url("imgs/icon_down.png") no-repeat center center;
 	background-size: 100% auto;
 	vertical-align: middle;
 }
@@ -169,7 +169,7 @@
 	padding-top: 1.5rem;
 }
 .menu .J_show {
-	background: url("/imgs/icon_up.png") no-repeat center center;
+	background: url("imgs/icon_up.png") no-repeat center center;
 	background-size: 100% auto;
 }
 .menu .active {
